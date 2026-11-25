@@ -1,0 +1,25 @@
+{
+  "name": "formularios-salario-y-condiciones-de-trabajo",
+  "version": "1.1.0",
+  "description": "Salario, movilidad y condiciones de trabajo: 89 formularios revisados el 25-11-2026, cada uno convertido en una skill que lo rellena paso a paso. Para las condiciones del contrato: salario, nóminas, pluses, anticipos y préstamos al trabajador, movilidad funcional y geográfica, traslados y desplazamientos, modificación sustancial de condiciones (individual y colectiva, con su periodo de consultas) y sucesión de empresa. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+  "author": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "displayName": "Salario, movilidad y condiciones de trabajo · España",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://jurisprudenciator.lexiaipro.org/politica-de-privacidad",
+  "supportUrl": "https://jurisprudenciator.lexiaipro.org/incidencias",
+  "homepage": "https://jurisprudenciator.lexiaipro.org",
+  "termsOfServiceUrl": "https://jurisprudenciator.lexiaipro.org/terminos-y-condiciones",
+  "keywords": [
+    "jurisprudenciator",
+    "legal",
+    "españa",
+    "formularios",
+    "modelos",
+    "laboral",
+    "condiciones-de-trabajo-y-salario"
+  ],
+  "repository": "https://github.com/DerechoVirtual/formularios-salario-y-condiciones-de-trabajo"
+}
